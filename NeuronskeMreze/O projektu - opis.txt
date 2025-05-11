@@ -1,0 +1,2 @@
+Projekt je izrađen pomoću Jupyter Notebooka u sklopu kolegija Umjetna inteligencija koji se izvodi na prvoj godini diplomskog studija
+Računarstvo i matematika. Cilj projekta je bio napraviti neouronsku mrežu koja prepoznaje znamenke s približnom točnošću od 70%.
